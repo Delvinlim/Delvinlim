@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Delvinlim
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Backend Techonology
+- 💞️ I’m looking to collaborate on social project
+- 📫 reach me through delvinbisnis@gmail.com
